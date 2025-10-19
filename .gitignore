@@ -22,8 +22,10 @@ __pycache__/
 Thumbs.db  # Windows
 .DS_Store  # macOS
 
-Bardakov_VK_module_2_project_ver1
+Bardakov_VK_module_2_project_ver1.ipynb
 
-Bardakov_VK_module_2_project_ver2
+Bardakov_VK_module_2_project_ver2.ipynb
 
 .env
+
+.ipynb_checkpoints/
